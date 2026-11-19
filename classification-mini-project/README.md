@@ -36,3 +36,4 @@ heart_disease, 303 об’єктів, числові та категоріаль
 |GaussianNB|0.7463|0.8268||0.8929|
 Recall був пріоріттом, тому саме ця модель
 ## Запуск
+[Відкрити Notebook](notebooks/PR04_Bachysh_Pavlo.ipynb)
